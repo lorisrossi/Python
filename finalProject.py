@@ -1,3 +1,5 @@
+# THIS IS THE FINAL PROJECT OF UDACITY'S COURSE "INTRO TO COMPUTER SCIENCE"
+
 # --------------------------- #
 # Intro to CS Final Project   #
 # Gaming Social Network       #
