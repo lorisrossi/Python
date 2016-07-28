@@ -1,6 +1,6 @@
-# copialo nel codice, perche devi usare c.starts e c.items
-# come variabili globali. Inoltre ricordati di modificare tutte
-# le funzioni chiamate con c(...)
+# You need to copy this code inside your project, because you need
+# to use 'c.starts' and 'c.items' as global variables.
+# Update every function with c(...), e.g. max(n) -> c(max(n))
 
 def c(sequence):
     """Generate items in sequence; keeping counts as we go. c.starts is the
