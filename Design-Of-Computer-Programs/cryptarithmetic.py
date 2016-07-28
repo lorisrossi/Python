@@ -1,6 +1,5 @@
-#re.search(r'\b0[0-9]', f) : '\b' sta per boundaries, in pratica
-#cerca nella stringa un blocco di caratteri fatto da uno spazio/punto/virgola,
-# lo 0 e un altro numero compreso tra 0 e 9. Se lo trova ritorna True
+# re.search(r'\b0[0-9]', f) : '\b' means 'boundaries', in this case
+# they are white space, comma or dot.
 
 from __future__ import division
 import string, re, time, timedcall, itertools
