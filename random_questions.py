@@ -1,5 +1,6 @@
 # This Python file uses the following encoding: latin-1
-# Utilizzo: Modifica la stringa 'questions' per avere domande a random
+# How-to-use: read the string 'questions' and modify it
+
 import random, time
 
 questions = """Fill here your text.
