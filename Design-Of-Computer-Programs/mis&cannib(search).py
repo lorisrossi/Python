@@ -1,5 +1,4 @@
-# Non ci possono essere piu' cannibali di missionari in ogni lato,
-# altrimenti i missionari vengono mangiati
+# info: https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
 
 def mc_problem(start=(3, 3, 1, 0, 0, 0), goal = None):
     """Solve the missionaries and cannibals problem.
