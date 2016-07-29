@@ -11,7 +11,7 @@ def coefficient(xnum, ynum):
     xsquared = sum((x - xmean)**2 for x in xnum)
     ysquared = sum((y - ymean)**2 for y in ynum)
     B = numerator / xsquared
-    A = ymean - b*xmean
+    A = ymean - B*xmean
     R = numerator / sqrt(xsquared * ysquared)
     return B, A, R
 
