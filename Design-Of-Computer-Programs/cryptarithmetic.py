@@ -1,5 +1,5 @@
-# re.search(r'\b0[0-9]', f) : '\b' means 'boundaries', in this case
-# they are white space, comma or dot.
+# re.search(r'\b0[0-9]', f) : '\b' means 'boundaries',
+# in this case they are white space, comma or dot.
 
 from __future__ import division
 import string, re, time, timedcall, itertools
