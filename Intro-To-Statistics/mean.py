@@ -16,7 +16,7 @@ def mean(args):
             Cf.Interval:  %11.4f""" % (mean,
             variance, st_deviation, cf_interval)
 
-
+# Remember to put a space between each number, like this: "3 6 8.5 4 2.02"
 raw_numbers = raw_input('Write your numbers: ')
 numbers = list(float(x) for x in raw_numbers.split())
 mean(numbers)
