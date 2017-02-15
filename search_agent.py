@@ -1,3 +1,6 @@
+# Change the last line with a couple of cities in the map
+# The map come from here: http://centurion2.com/AIHomework/Searching/RomaniaMap.JPG
+
 romania_map = {'Arad': [('Zerind', 75), ('Sibiu', 140), ('Timisoara', 118)],
                'Zerind': [('Arad', 75), ('Oradea', 71)],
                'Sibiu': [('Arad', 140), ('Oradea', 151),
